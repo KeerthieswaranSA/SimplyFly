@@ -1,0 +1,6 @@
+@SimplyFly.API_HostAddress = http://localhost:5286
+
+GET {{SimplyFly.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
